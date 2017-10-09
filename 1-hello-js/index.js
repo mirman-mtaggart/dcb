@@ -1,5 +1,6 @@
 function greet(name) {
     // Modify this so it prints "Hello, <name>!"
+    // Useless comment!
     return "Hello, " + name + "!";
 }
 
